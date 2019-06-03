@@ -1,0 +1,3 @@
+project folder:
+-client program ->> open file, add/delete files into the list -> send to th server;
+-server program->> accept file , add to database.
