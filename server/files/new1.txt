@@ -1,0 +1,19 @@
+Rational Installation
+---------------------
+
+1) Run the setup, and choose install before licensing.
+2) Put rational_server_perm.dat in C:\Program Files\Rational\Common 
+   (or wherever you installed)
+3) Enjoy!
+
+NOTE:  On some machines, the installer wouldn't copy "suite objects.dll" and "licensing.dll"
+       If this happened to you, copy those files manually to your Windows System directory.Rational Installation
+---------------------
+
+1) Run the setup, and choose install before licensing.
+2) Put rational_server_perm.dat in C:\Program Files\Rational\Common 
+   (or wherever you installed)
+3) Enjoy!
+
+NOTE:  On some machines, the installer wouldn't copy "suite objects.dll" and "licensing.dll"
+       If this happened to you, copy those files manually to your Windows System directory.
